@@ -1,11 +1,11 @@
 {
-"name": "baccarat-api",
+"name": "ccbcr",
 "version": "1.0.0",
 "description": "API Baccarat - Nhà Cái / Nhà Con",
-"main": "server.js",
+"main": "api bcr.js",
 "scripts": {
-"start": "node api bcr.js",
-"dev": "node api bcr.js"
+"start": "node "api bcr.js"",
+"dev": "node "api bcr.js""
 },
 "keywords": ["baccarat", "api", "nodejs", "express"],
 "author": "Tuan Nguyen",
