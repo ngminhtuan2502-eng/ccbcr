@@ -4,8 +4,8 @@
 "description": "API Baccarat - Nhà Cái / Nhà Con",
 "main": "api bcr.js",
 "scripts": {
-"start": "node "api bcr.js"",
-"dev": "node "api bcr.js""
+"start": "node "apivip.js"",
+"dev": "node "apivip.js""
 },
 "keywords": ["baccarat", "api", "nodejs", "express"],
 "author": "Tuan Nguyen",
