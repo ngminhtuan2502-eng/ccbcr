@@ -2,7 +2,7 @@
 "name": "ccbcr",
 "version": "1.0.0",
 "description": "API Baccarat - Nhà Cái / Nhà Con",
-"main": "api bcr.js",
+"main": "apivip.js",
 "scripts": {
 "start": "node apivip.js",
 "dev": "node apivip.js"
