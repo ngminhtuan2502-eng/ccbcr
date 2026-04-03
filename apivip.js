@@ -71,7 +71,7 @@ function predictNext(results) {
 
 // ====================== POLLING API ======================
 async function pollBaccaratAPI() {
-    const url = `http://36.50.55.230:4568/data/sexy`;
+    const url = `https://bacaratsexy-k1fi.onrender.com/all`;
     
     while (true) {
         try {
